@@ -16,13 +16,4 @@ Currently at **Airbus**, architecting the enterprise Knowledge Mapping framework
 | Project | Stack | Status |
 |---------|-------|--------|
 | [its-good-to-be-good](https://github.com/akshitjmsb/its-good-to-be-good) | React · TypeScript · Supabase · Vite | 🟢 Live |
-
----
-
-#### Stack I work in
-
-`Palantir Foundry` `Google Cloud · Vertex AI` `Snowflake` `Databricks` `Python` `PySpark` `Power BI` `dbt`
-
----
-
-📍 Montreal · MBA (Concordia JMSB) · [LinkedIn](https://linkedin.com/in/akshitguptajmsb)
+| [inner-circle](https://inner-circle-ten.vercel.app) 🔒 | Next.js · TypeScript · Drizzle · Neon · Pusher | 🟢 Live |
