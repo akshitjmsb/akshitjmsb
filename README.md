@@ -17,3 +17,4 @@ Currently at **Airbus**, architecting the enterprise Knowledge Mapping framework
 |---------|-------|--------|
 | [its-good-to-be-good](https://github.com/akshitjmsb/its-good-to-be-good) | React · TypeScript · Supabase · Vite | 🟢 Live |
 | [inner-circle](https://inner-circle-ten.vercel.app) 🔒 | Next.js · TypeScript · Drizzle · Neon · Pusher | 🟢 Live |
+| [stallionchess](https://www.stallionchess.com) 🔒 | React 19 · TypeScript · Vite · Supabase | 🟢 Live |
